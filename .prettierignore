@@ -1,0 +1,6 @@
+.git
+.gitignore
+.prettierignore
+build
+dist
+node_modules
